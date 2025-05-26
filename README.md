@@ -15,7 +15,7 @@ SmartTasker is a full-stack task management web app built with Angular and .NET 
 ## 🖥️ UI Screenshots
 
 ### 📋 Task Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./dashboard.png)
 
 ### ➕ Add New Task
 ![Add Task](./screenshots/add-task.png)
