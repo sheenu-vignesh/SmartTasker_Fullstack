@@ -2,6 +2,9 @@
 
 SmartTasker is a full-stack task management web app built with Angular and .NET Core. It allows users to create, manage, and prioritize daily tasks with a clean and responsive interface.
 
+![Uploading image.png…]()
+
+
 ## 🚀 Features
 - Add, update, delete tasks
 - Set priority: Low, Medium, High
